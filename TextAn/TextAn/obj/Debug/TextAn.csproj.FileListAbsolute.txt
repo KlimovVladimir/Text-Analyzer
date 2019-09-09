@@ -1,0 +1,102 @@
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\bin\Debug\TextAn.exe.config
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\bin\Debug\TextAn.exe
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\bin\Debug\TextAn.pdb
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.csprojAssemblyReference.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.Form1.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.csproj.CoreCompileInputs.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.exe
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.pdb
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.Form2.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\TextAn\TextAn\obj\Debug\TextAn.Form3.resources
+G:\Курсовая\TextAn\TextAn\bin\Debug\TextAn.exe.config
+G:\Курсовая\TextAn\TextAn\bin\Debug\TextAn.exe
+G:\Курсовая\TextAn\TextAn\bin\Debug\TextAn.pdb
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form1.resources
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form2.resources
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form3.resources
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.exe
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.pdb
+G:\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form4.resources
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\bin\Debug\TextAn.exe.config
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\bin\Debug\TextAn.exe
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\bin\Debug\TextAn.pdb
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.csprojAssemblyReference.cache
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form1.resources
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form2.resources
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form3.resources
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form4.resources
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.csproj.CoreCompileInputs.cache
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.exe
+H:\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.pdb
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\bin\Debug\TextAn.exe.config
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\bin\Debug\TextAn.exe
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\bin\Debug\TextAn.pdb
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.csprojAssemblyReference.cache
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form1.resources
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form2.resources
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form3.resources
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form4.resources
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.csproj.CoreCompileInputs.cache
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.exe
+H:\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.pdb
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\bin\Debug\TextAn.exe.config
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\bin\Debug\TextAn.exe
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\bin\Debug\TextAn.pdb
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.csprojAssemblyReference.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form1.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form2.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form3.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Form4.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.csproj.CoreCompileInputs.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.exe
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn - классы\TextAn\obj\Debug\TextAn.pdb
+G:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.csprojResolveAssemblyReference.cache
+E:\КУРСОВАЯ\TextAn\TextAn\bin\Debug\TextAn.exe.config
+E:\КУРСОВАЯ\TextAn\TextAn\bin\Debug\TextAn.exe
+E:\КУРСОВАЯ\TextAn\TextAn\bin\Debug\TextAn.pdb
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.csprojAssemblyReference.cache
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form1.resources
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form2.resources
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form3.resources
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form4.resources
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.csproj.CoreCompileInputs.cache
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.exe
+E:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.pdb
+H:\КУРСОВАЯ\TextAn\TextAn\bin\Debug\TextAn.exe.config
+H:\КУРСОВАЯ\TextAn\TextAn\bin\Debug\TextAn.exe
+H:\КУРСОВАЯ\TextAn\TextAn\bin\Debug\TextAn.pdb
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.csprojAssemblyReference.cache
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form1.resources
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form2.resources
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form3.resources
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Form4.resources
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.csproj.CoreCompileInputs.cache
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.exe
+H:\КУРСОВАЯ\TextAn\TextAn\obj\Debug\TextAn.pdb
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\bin\Debug\TextAn.exe.config
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\bin\Debug\TextAn.exe
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\bin\Debug\TextAn.pdb
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.csprojAssemblyReference.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form1.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form2.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form3.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Form4.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.Properties.Resources.resources
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.csproj.GenerateResource.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.csproj.CoreCompileInputs.cache
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.exe
+E:\NSTU\АВТФ\2 курс\С# Технологии программирования\Технология. Курсовая\Курсовая\TextAn\TextAn\obj\Debug\TextAn.pdb
